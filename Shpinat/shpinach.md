@@ -11,7 +11,7 @@
 ### Description: 
 
 >Это бот для заказа доставки еды и напитков из кафе "Шпинат" в г. Волгограде. Ознакомьтесь с меню, условиями доставки и сделайте свой заказ. Кафе "Шпинат" желает вам приятного аппетита!
-This is a bot for ordering food and drink delivery from the "Spinach" cafe in Volgograd. Read the menu, delivery terms and make your order. "Spinach" cafe wishes you a pleasant appetite!
+This is food and drinks delivery bot from  the “Spinach” cafe in Volgograd. Explore the menu, terms of delivery, place your order and enjoy your meal! 
 
 ### About:
 
